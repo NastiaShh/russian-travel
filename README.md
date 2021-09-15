@@ -21,7 +21,7 @@
 - grid;
 - работа с Figma.
 
-[Ссылка на проект в GitHub Pages](https://nastyashh.github.io)
+[Ссылка на проект в GitHub Pages](https://nastiashh.github.io/russian-travel/)
 
 ## Планы по доработке:
 - Применение JavaScript.
