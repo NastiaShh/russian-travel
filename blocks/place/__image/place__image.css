@@ -1,8 +1,6 @@
 .place__image {
     max-height: 460px;
     width: 100%;
-    grid-column: 1;
-    grid-row: 2;
   }
 
   @media (min-width: 769px) and (max-width: 1024px) {
