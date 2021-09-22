@@ -1,14 +1,9 @@
 .header__lang-link {
   text-decoration: none;
   color: white;
-  padding-right: 18px;
   transition: opacity 0.5s ease-in;
 }
 
 .header__lang-link:hover {
   opacity: 0.8;
-}
-
-.header__lang-link:last-child {
-  padding: 0;
 }
